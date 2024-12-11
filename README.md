@@ -2,6 +2,9 @@
 
 This project creates a backup of files in the specified directory and saves it in ZIP format with a well-formatted name.
 
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/15563c78-e400-4e60-b37f-51ebdd8b0f61" />
+
+
 ## Usage
 
 1. Clone the repository or download the project files.
